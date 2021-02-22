@@ -111,11 +111,17 @@ Não tenha pressa de conhecer o projeto antes de partir para ação!
 
 [Link para fazer o fork do projeto](https://gitlab.com/kenzie-academy-brasil/se/fe/sprint-3-css-week/assessment-styling-landing-page-kenzie-academy)
 
+
+## Envio
+
+Faça o push do código para o seu repositório GitLab e implemente-o via GitLab pages. No Canvas, por favor, envie a url de seu Gitlab Pages (ex: https://nomedeusuario.gitlab.io/streaming-platform-layout/) e, no GitLab, adicione o grupo ka-br-<sua-turma>-correcoes como membro do seu projeto com a permissão "Reporter".
+
 ### Bom trabalho!
 
 ## Layout:
 
-![Template Desktop](https://gitlab.com/kenzie-academy-brasil/se/fe/sprint-3-css-week/assessment-styling-landing-page-kenzie-academy/-/raw/master/Mockup-desktop.png)
-![Template Mobile](https://gitlab.com/kenzie-academy-brasil/se/fe/sprint-3-css-week/assessment-styling-landing-page-kenzie-academy/-/raw/master/Mockup-mobile.png)
+[Template Desktop](https://gitlab.com/kenzie-academy-brasil/se/fe/sprint-3-css-week/assessment-styling-landing-page-kenzie-academy/-/raw/master/Mockup-desktop.png)
+
+[Template Mobile](https://gitlab.com/kenzie-academy-brasil/se/fe/sprint-3-css-week/assessment-styling-landing-page-kenzie-academy/-/raw/master/Mockup-mobile.png)
 
 
