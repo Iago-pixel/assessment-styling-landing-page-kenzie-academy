@@ -53,9 +53,6 @@ Não tenha pressa de conhecer o projeto antes de partir para ação!
   - Azul Escuro: `#00043e`
   - Cinza: `#303030`
   - Cinza: Claro: `#818181`
-
----
-
 - Fontes Já estão importadas no arquivo css
   - Montserrat
   - Lato
@@ -80,7 +77,7 @@ Não tenha pressa de conhecer o projeto antes de partir para ação!
 
 ---
 
-- Seção curses:
+- Seção courses:
   - Título ítens: `font-size: 19px;`
   - Texto ítens: `font-size: 15px;`
 
