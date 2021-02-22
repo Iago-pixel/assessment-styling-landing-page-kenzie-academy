@@ -115,7 +115,7 @@ Não tenha pressa de conhecer o projeto antes de partir para ação!
 
 ## Layout:
 
-![Template Desktop](./Mockup-desktop.png)
-![Template Mobile](./Mockup-mobile.png)
+![Template Desktop](https://gitlab.com/kenzie-academy-brasil/se/fe/sprint-3-css-week/assessment-styling-landing-page-kenzie-academy/-/raw/master/Mockup-desktop.png)
+![Template Mobile](https://gitlab.com/kenzie-academy-brasil/se/fe/sprint-3-css-week/assessment-styling-landing-page-kenzie-academy/-/raw/master/Mockup-mobile.png)
 
 
