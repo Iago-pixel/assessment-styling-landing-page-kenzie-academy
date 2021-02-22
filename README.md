@@ -1,4 +1,4 @@
-# Descrição do projeto 
+# Assessment - Estilizando Página Landing Page Kenzie Academy
 
 ## Olá dev!
 
@@ -10,6 +10,8 @@ Você foi contratado para desenvolver o front-end da landing page de divulgaçã
 
 Nesse projeto você precisa fazer o fork do repositório, o qual já foi iniciado por um desenvolvedor de nossa equipe. Após realizar o  fork você vai receber os arquivos do projeto já estruturado onde você vai precisar apenas trabalhar na estilização(CSS) da página.
 
+
+## Especificações
 ---
 
 ## PROJETO:
@@ -17,16 +19,29 @@ Nesse projeto você precisa fazer o fork do repositório, o qual já foi iniciad
 ### Estrutura de pastas:
 
 Recomendamos que você analise toda a estrutura html proposta para esse projeto, importante entender como tudo foi estruturado antes de colocar a mão na massa. 
-Não tenha preça de conhecer o projeto antes de partir para ação! 
+Não tenha pressa de conhecer o projeto antes de partir para ação! 
 
-- Repositório:
-- Index.html
-- Mockup.png
-    - assets
-        - img
-        - js
-        - font
-        - css
+- README.md
+- index.html
+- /assets
+    - /css
+        - style.css
+    - /img
+        - background-destaque.webp
+        - dj.png
+        - user.png
+        - html-css.png
+        - icon-96x96.webp
+        - JavaScript-logo.png
+        - js.png
+        - logo.svg
+        - multitasking.svg
+        - py.webp
+        - python.png
+        - react.png
+    - /js
+        - script.js
+
 
 ---
 
@@ -35,11 +50,11 @@ Não tenha preça de conhecer o projeto antes de partir para ação!
 - Todas as imagens utilizadas no projeto estão na pasta de imagens
 
 - Cores Utilizadas:
-    - Branco: #FFFFFF
-    - Azul Claro: #007aff
-    - Azul Escuro: #00043e
+    - Branco: `#FFFFFF`
+    - Azul Claro: `#007aff`
+    - Azul Escuro: `#00043e`
     - Cinza: #303030
-    - Cinza: Claro: #818181
+    - Cinza: Claro: `#818181`
 
 ---
 
@@ -49,29 +64,29 @@ Não tenha preça de conhecer o projeto antes de partir para ação!
 ---
 
 - Menu: 
-    - Links do menu: __font-size: 63px;__
+    - Links do menu: `__font-size: 63px;__`
 
 - Seção destaque
-    - Título: __font-size: 63px;__
-    - Subtítulo: __font-size: 21px;__
-    - Botão “Subscribe”: __font-size:14px;__ 
+    - Título: `__font-size: 63px;__`
+    - Subtítulo: `__font-size: 21px;__`
+    - Botão “Subscribe”: `__font-size:14px;__ `
 
 - Seção sobre:
-  - Título: __font-size: 24px;__
-  - Texto: __font-size: 19px;__
+  - Título: `__font-size: 24px;__`
+  - Texto: `__font-size: 19px;__`
 
 - Seção curses:
-  - Título ítens: __font-size: 19px;__
-  - Texto ítens: __font-size: 15px;__
+  - Título ítens: `__font-size: 19px;__`
+  - Texto ítens: `__font-size: 15px;__`
 
 - Seção Calendário:
-  - Datas: __font-size: 36px;__
-  - Título: __font-size: 19px;__
-  - Texto: __font-size: 15px;__
-  - Botão “Sign Up”: __font-size: 32px;__
+  - Datas: `__font-size: 36px;__`
+  - Título: `__font-size: 19px;__`
+  - Texto: `__font-size: 15px;__`
+  - Botão “Sign Up”: `__font-size: 32px;__`
 
 - Seção contato: 
-  - Informações: __font-size: 15px;__
+  - Informações: `__font-size: 15px;__`
 
 ---
 
@@ -83,10 +98,10 @@ Não tenha preça de conhecer o projeto antes de partir para ação!
 
 ---
 
-## Ìtens obrigatórios:
+## Itens obrigatórios:
 
 - O site precisa ser __mobile first__
-- Precisa estar __publicado em uma url no gitlab pages__
+- Precisa estar __publicado em uma url no gitlabPages__
 
 ---
 
@@ -97,5 +112,10 @@ Não tenha preça de conhecer o projeto antes de partir para ação!
 [Link para fazer o fork do projeto](https://gitlab.com/kenzie-academy-brasil/se/fe/sprint-3-css-week/assessment-styling-landing-page-kenzie-academy)
 
 ### Bom trabalho!
+
+## Layout:
+
+![Template Desktop](Mockup-desktop.png)
+![Template Mobile](Mockup-mobile.png)
 
 
