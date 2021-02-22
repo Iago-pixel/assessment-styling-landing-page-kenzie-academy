@@ -42,8 +42,6 @@ Não tenha pressa de conhecer o projeto antes de partir para ação!
   - /js
     - script.js
 
-----
-
 ### INSTRUÇÕES:
 
 - Todas as imagens utilizadas no projeto estão na pasta de imagens
