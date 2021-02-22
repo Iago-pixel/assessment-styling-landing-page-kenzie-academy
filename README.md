@@ -65,29 +65,29 @@ Não tenha pressa de conhecer o projeto antes de partir para ação!
 
 - Menu: 
 
-    - Links do menu: `__font-size: 63px;__`
+    - Links do menu: `font-size: 63px;`
 
 - Seção destaque
-    - Título: `__font-size: 63px;__`
-    - Subtítulo: `__font-size: 21px;__`
-    - Botão “Subscribe”: `__font-size:14px;__ `
+    - Título: `font-size: 63px;`
+    - Subtítulo: `font-size: 21px;`
+    - Botão “Subscribe”: `font-size:14px;`
 
 - Seção sobre:
-  - Título: `__font-size: 24px;__`
-  - Texto: `__font-size: 19px;__`
+  - Título: `font-size: 24px;`
+  - Texto: `font-size: 19px;`
 
 - Seção curses:
-  - Título ítens: `__font-size: 19px;__`
-  - Texto ítens: `__font-size: 15px;__`
+  - Título ítens: `font-size: 19px;`
+  - Texto ítens: `font-size: 15px;`
 
 - Seção Calendário:
-  - Datas: `__font-size: 36px;__`
-  - Título: `__font-size: 19px;__`
-  - Texto: `__font-size: 15px;__`
-  - Botão “Sign Up”: `__font-size: 32px;__`
+  - Datas: `font-size: 36px;`
+  - Título: `font-size: 19px;`
+  - Texto: `font-size: 15px;`
+  - Botão “Sign Up”: `font-size: 32px;`
 
 - Seção contato: 
-  - Informações: `__font-size: 15px;__`
+  - Informações: `font-size: 15px;`
 ---
 
 - Ícones, você pode fazer o download nos seguintes sites:
