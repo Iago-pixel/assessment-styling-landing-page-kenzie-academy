@@ -35,11 +35,11 @@ Não tenha preça de conhecer o projeto antes de partir para ação!
 - Todas as imagens utilizadas no projeto estão na pasta de imagens
 
 - Cores Utilizadas:
-    - Branco: #FFFFFF
-    - Azul Claro: #007aff
-    - Azul Escuro: #00043e
-    - Cinza: #303030
-    - Cinza: Claro: #818181
+    - Branco: `#FFFFFF`
+    - Azul Claro: `#007aff`
+    - Azul Escuro: `#00043e`
+    - Cinza: `#303030`
+    - Cinza: Claro: `#818181`
 
 ---
 
@@ -49,36 +49,42 @@ Não tenha preça de conhecer o projeto antes de partir para ação!
 ---
 
 - Menu: 
+
     - Links do menu: __font-size: 63px;__
 
-- Seção destaque
+- Seção destaque:
+
     - Título: __font-size: 63px;__
     - Subtítulo: __font-size: 21px;__
     - Botão “Subscribe”: __font-size:14px;__ 
 
 - Seção sobre:
+
   - Título: __font-size: 24px;__
   - Texto: __font-size: 19px;__
 
-- Seção curses:
-  - Título ítens: __font-size: 19px;__
-  - Texto ítens: __font-size: 15px;__
+- Seção courses:
+
+  - Título itens: __font-size: 19px;__
+  - Texto itens: __font-size: 15px;__
 
 - Seção Calendário:
+
   - Datas: __font-size: 36px;__
   - Título: __font-size: 19px;__
   - Texto: __font-size: 15px;__
   - Botão “Sign Up”: __font-size: 32px;__
 
 - Seção contato: 
+
   - Informações: __font-size: 15px;__
 
 ---
 
-- Ícones você pode fazer o download nos seguintes sites:
+- Ícones, você pode fazer o download nos seguintes sites:
 
-- [- flaticon](https://www.flaticon.com/)
-- [- icons8](https://icons8.com/icons/set/feder)
+- [flaticon](https://www.flaticon.com/)
+- [icons8](https://icons8.com/icons/set/feder)
 
 
 ---
