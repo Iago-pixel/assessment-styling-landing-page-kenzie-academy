@@ -53,7 +53,7 @@ Não tenha pressa de conhecer o projeto antes de partir para ação!
     - Branco: `#FFFFFF`
     - Azul Claro: `#007aff`
     - Azul Escuro: `#00043e`
-    - Cinza: #303030
+    - Cinza: `#303030`
     - Cinza: Claro: `#818181`
 
 ---
@@ -64,6 +64,7 @@ Não tenha pressa de conhecer o projeto antes de partir para ação!
 ---
 
 - Menu: 
+
     - Links do menu: `__font-size: 63px;__`
 
 - Seção destaque
@@ -87,13 +88,12 @@ Não tenha pressa de conhecer o projeto antes de partir para ação!
 
 - Seção contato: 
   - Informações: `__font-size: 15px;__`
-
 ---
 
-- Ícones você pode fazer o download nos seguintes sites:
+- Ícones, você pode fazer o download nos seguintes sites:
 
-- [- flaticon](https://www.flaticon.com/)
-- [- icons8](https://icons8.com/icons/set/feder)
+- [flaticon](https://www.flaticon.com/)
+- [icons8](https://icons8.com/icons/set/feder)
 
 
 ---
