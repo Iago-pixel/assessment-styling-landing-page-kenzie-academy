@@ -115,7 +115,7 @@ Não tenha pressa de conhecer o projeto antes de partir para ação!
 
 ## Layout:
 
-![Template Desktop](Mockup-desktop.png)
-![Template Mobile](Mockup-mobile.png)
+![Template Desktop](./Mockup-desktop.png)
+![Template Mobile](./Mockup-mobile.png)
 
 
