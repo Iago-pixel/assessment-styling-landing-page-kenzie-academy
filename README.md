@@ -6,10 +6,11 @@ Nessa entrega vamos nos aprofundar um pouco mais no posicionamento dos elementos
 
 Vamos lá!!!
 
-Você foi contratado para desenvolver o front-end da landing page de divulgação de um novo curso da Kenzie Academy Brasil.
+Vocês foram contratado para desenvolver o front-end da landing page de divulgação de um novo curso da Kenzie Academy Brasil.
 
-Nesse projeto você precisa fazer o fork do repositório, o qual já foi iniciado por um desenvolvedor de nossa equipe. Após realizar o  fork você vai receber os arquivos do projeto já estruturado onde você vai precisar apenas trabalhar na estilização(CSS) da página.
+Nesse projeto vocês precisam fazer o fork do repositório, o qual já foi iniciado por um desenvolvedor de nossa equipe. Após realizar o  fork você vai receber os arquivos do projeto já estruturado onde você vai precisar apenas trabalhar na estilização(CSS) da página.
 
+### As duplas serão montadas pelos os facilitadores de cada turma.
 
 ## Especificações
 
