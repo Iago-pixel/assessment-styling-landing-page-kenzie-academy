@@ -19,6 +19,8 @@ Recomendamos que você analise toda a estrutura html proposta para esse projeto,
 
 Não tenha pressa de conhecer o projeto antes de partir para ação! 
 
+__OBS__: Não é obrigatório utilizar a estrutura sugerida, você pode construir o seu próprio __HTML__ , se preferir.
+
 #### Estrutura de pastas:
 
 - README.md
