@@ -128,10 +128,10 @@ Faça o push do código para o seu repositório GitLab e implemente-o via GitLab
 
 ## Layout:
 
-![Template Desktop](https://files-kenzie-academy-brasil.s3.amazonaws.com/q1/sprint3/page2.png)
+<!-- ![Template Desktop](https://files-kenzie-academy-brasil.s3.amazonaws.com/q1/sprint3/page2.png) -->
 
 [Ver em tela cheia](https://files-kenzie-academy-brasil.s3.amazonaws.com/q1/sprint3/page2.png)
 
-![Template Mobile](https://files-kenzie-academy-brasil.s3.amazonaws.com/q1/sprint3/page1.png)
+<!-- ![Template Mobile](https://files-kenzie-academy-brasil.s3.amazonaws.com/q1/sprint3/page1.png) -->
 
 [Ver em tela cheia](https://files-kenzie-academy-brasil.s3.amazonaws.com/q1/sprint3/page1.png)
