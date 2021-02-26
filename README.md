@@ -42,30 +42,35 @@ Não tenha pressa de conhecer o projeto antes de partir para ação!
   - /js
     - script.js
 
+----
+
 ### INSTRUÇÕES:
 
 - Todas as imagens utilizadas no projeto estão na pasta de imagens
 - Cores Utilizadas:
-  - Branco: `#FFFFFF`
-  - Azul Claro: `#007aff`
-  - Azul Escuro: `#00043e`
-  - Cinza: `#303030`
-  - Cinza: Claro: `#818181`
+    - Branco: `#FFFFFF`
+    - Azul Claro: `#007aff`
+    - Azul Escuro: `#00043e`
+    - Cinza: `#303030`
+    - Cinza: Claro: `#818181`
+
+---
+
 - Fontes Já estão importadas no arquivo css
-  - Montserrat
-  - Lato
+    - Montserrat
+    - Lato
 
 ---
 
 - Menu: 
-  - Links do menu: `font-size: 63px;`
+    - Links do menu: `font-size: 63px;`
 
 ---
 
 - Seção destaque
-  - Título: `font-size: 63px;`
-  - Subtítulo: `font-size: 21px;`
-  - Botão “Subscribe”: `font-size:14px;`
+    - Título: `font-size: 63px;`
+    - Subtítulo: `font-size: 21px;`
+    - Botão “Subscribe”: `font-size:14px;`
 
 ---
 
@@ -75,7 +80,7 @@ Não tenha pressa de conhecer o projeto antes de partir para ação!
 
 ---
 
-- Seção courses:
+- Seção curses:
   - Título ítens: `font-size: 19px;`
   - Texto ítens: `font-size: 15px;`
 
@@ -116,7 +121,7 @@ Não tenha pressa de conhecer o projeto antes de partir para ação!
 Faça o push do código para o seu repositório GitLab e implemente-o via GitLab pages. No Canvas, por favor, envie a url de seu Gitlab Pages (ex: https://nomedeusuario.gitlab.io/streaming-platform-layout/) e, no GitLab, adicione o grupo ka-br-<sua-turma>-correcoes como membro do seu projeto com a permissão "Reporter".
 
 ### Bom trabalho!
- 
+
 ---
 
 ## Layout:
