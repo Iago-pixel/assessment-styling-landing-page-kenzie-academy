@@ -65,7 +65,7 @@ __OBS__: Não é obrigatório utilizar a estrutura sugerida, você pode construi
 ---
 
 - Menu: 
-    - Links do menu: `font-size: 63px;`
+    - Links do menu: `font-size: 13px;`
 
 ---
 
