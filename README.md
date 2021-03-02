@@ -48,6 +48,8 @@ __OBS__: Não é obrigatório utilizar a estrutura sugerida, você pode construi
 
 ### INSTRUÇÕES:
 
+**Obs:** _as seguintes especificações são destinadas para o desktop, para as demais resoluções, você pode adaptar os tamanhos conforme a tela diminui/aumenta._
+
 - Todas as imagens utilizadas no projeto estão na pasta de imagens
 - Cores Utilizadas:
     - Branco: `#FFFFFF`
