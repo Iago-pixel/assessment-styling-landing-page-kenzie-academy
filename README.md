@@ -54,7 +54,7 @@ __OBS__: Não é obrigatório utilizar a estrutura sugerida, você pode construi
     - Azul Claro: `#007aff`
     - Azul Escuro: `#00043e`
     - Cinza: `#303030`
-    - Cinza: Claro: `#818181`
+    - Cinza Claro: `#818181`
 
 ---
 
