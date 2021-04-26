@@ -133,8 +133,8 @@ Faça o push do código para o seu repositório GitLab e implemente-o via GitLab
 
 <!-- ![Template Desktop](https://files-kenzie-academy-brasil.s3.amazonaws.com/q1/sprint3/page2.png) -->
 
-[Desktop](https://files-kenzie-academy-brasil.s3.amazonaws.com/q1/sprint3/page2.png)
+[Mobile](https://files-kenzie-academy-brasil.s3.amazonaws.com/q1/sprint3/page1.png)
 
 <!-- ![Template Mobile](https://files-kenzie-academy-brasil.s3.amazonaws.com/q1/sprint3/page1.png) -->
 
-[Mobile](https://files-kenzie-academy-brasil.s3.amazonaws.com/q1/sprint3/page1.png)
+[Desktop](https://files-kenzie-academy-brasil.s3.amazonaws.com/q1/sprint3/page2.png)
