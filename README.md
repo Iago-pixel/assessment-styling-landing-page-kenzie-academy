@@ -19,7 +19,7 @@ Recomendamos que você analise toda a estrutura html proposta para esse projeto,
 
 Não tenha pressa de conhecer o projeto antes de partir para ação! 
 
-__OBS__: Não é obrigatório utilizar a estrutura sugerida, você pode construir o seu próprio __HTML__, se preferir.
+__OBS__: não é obrigatório utilizar a estrutura sugerida, você pode construir o seu próprio __HTML__, se preferir.
 
 #### Estrutura de pastas:
 
@@ -53,7 +53,7 @@ __OBS__: Não é obrigatório utilizar a estrutura sugerida, você pode construi
 **Obs:** _não se preocupe em listar as opções do menu na versão mobile, é esperado que fique igual ao modelo disponilibizado, ou seja, somente a representação visual._
 
 - Todas as imagens utilizadas no projeto estão na pasta de imagens
-- Cores Utilizadas:
+- Cores utilizadas:
     - Branco: `#FFFFFF`
     - Azul Claro: `#007aff`
     - Azul Escuro: `#00043e`
@@ -62,7 +62,7 @@ __OBS__: Não é obrigatório utilizar a estrutura sugerida, você pode construi
 
 ---
 
-- Fontes Já estão importadas no arquivo css
+- Fontes já estão importadas no arquivo css
     - Montserrat (Utilizar em todas tags de título **h2**);
     - Lato (Utilizar no restante do site).
 
@@ -92,7 +92,7 @@ __OBS__: Não é obrigatório utilizar a estrutura sugerida, você pode construi
 
 ---
 
-- Seção Calendário:
+- Seção calendário:
   - Datas: `font-size: 36px;`
   - Título: `font-size: 19px;`
   - Texto: `font-size: 15px;`
