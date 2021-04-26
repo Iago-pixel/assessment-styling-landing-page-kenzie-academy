@@ -49,6 +49,7 @@ __OBS__: Não é obrigatório utilizar a estrutura sugerida, você pode construi
 ### INSTRUÇÕES:
 
 **Obs:** _as seguintes especificações são destinadas para o desktop, para as demais resoluções, você pode adaptar os tamanhos conforme a tela diminui/aumenta._
+
 **Obs:** _não se preocupe em listar as opções do menu na versão mobile, é esperado que fique igual ao modelo disponilibizado, ou seja, somente a representação visual._
 
 - Todas as imagens utilizadas no projeto estão na pasta de imagens
