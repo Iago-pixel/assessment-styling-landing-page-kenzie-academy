@@ -116,6 +116,12 @@ __OBS__: _não é obrigatório utilizar a estrutura sugerida, você pode constru
 - Precisa estar __publicado em uma url no gitlabPages__
 
 ---
+## Observações:
+- Não será permitido o uso de LIVE SHARE ou qualquer outra extensão de live coding em equipe, ao invés disso, tente pôr em prática seu conhecimento de git usando branchs.
+- Precisa ter commits de ambos integrantes.
+
+
+---
 
 ## REPOSITÓRIO
 [Link para fazer o fork do projeto](https://gitlab.com/kenzie-academy-brasil/se/fe/sprint-3-css-week/assessment-styling-landing-page-kenzie-academy)
