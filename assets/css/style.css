@@ -168,6 +168,11 @@ main{}
 .inicial .secaoSobre{
     margin: 10rem 0 5rem;
 }
+.inicial .secaoSobre .flex .flex-col{
+    text-align: left;
+    margin: 0;
+}
+
 .inicial .secaoSobre .flex .flex-col:first-child{
     display: flex;
     flex-direction: column;
@@ -181,22 +186,22 @@ main{}
 }
 .inicial .secaoSobre .flex .flex-col p {
     font-size: 0.9rem;
-    color: var(--cinza);
+    color: var(--cinza-claro);
 }
 .inicial .secaoSobre .flex .flex-col span {
     font-size: 0.9rem;
-    color: var(--cinza);
+    color: var(--cinza-claro);
 }
 .inicial .secaoSobre .flex .flex-col:last-child{
     padding: 0 var(--margin-lateral);
-    background-color: var(--cinza-claro);
+    background-color: #e2e2e2;
     padding: 0 var(--margin-lateral);
 }
 .inicial .secaoSobre .flex .flex-col:last-child h2{
     text-align: center;
 }
 .inicial .secaoSobre .flex .flex-col ul{
-    color: var(--cinza);
+    color: var(--cinza-claro);
     font-size: 0.9rem;
     line-height: 1.5rem;
     padding-left: 20px;
@@ -210,7 +215,7 @@ main{}
 .inicial .secaoSobre .flex .flex-col button{
     font-size: 1rem;
     padding: 0.5rem;
-    border-color: var(--cinza);
+    border-color: var(--cinza-claro);
     background-color: white;
     border-width: 1px;
     border-radius: 5px;
@@ -225,14 +230,15 @@ main{}
 }
 .inicial .secaoSobre .flex .flex-col:nth-child(2) img{
     display: block;
-    width: 200px;
+    width: 60vw;
 }
 .inicial .secaoSobre .flex .flex-col:nth-child(3){
     padding: var(--margin-lateral);
-    background-color: var(--cinza-claro);
+    background-color: #e2e2e2;
+    padding-bottom: 1rem;
 }
 .inicial .secaoSobre .flex .flex-col:nth-child(3) figure{
-    padding: 3rem 0 1rem;
+    /* padding: 3rem 0 1rem; */
     margin: 0 auto;
     display: flex;
     justify-content: center;
@@ -240,14 +246,10 @@ main{}
 }
 .inicial .secaoSobre .flex .flex-col:nth-child(3) img{
     display: block;
-    width: 100px;
+    width: 30vw;
 }
 /* SEÇÃO SOBRE */
 
-<<<<<<< HEAD
-=======
-
->>>>>>> master
 /* parte de Vinicius */
 /* secao de cursos */
 .secaoCursos article img{
@@ -373,17 +375,10 @@ footer{
     height: auto;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 /* >>>>>>> parte2 */
-=======
->>>>>>> parte2
->>>>>>> master
-=======
 .secaoContato-informacoes ul li a:link{
     color: var(--cinza);
 }
->>>>>>> master
 
 /* INICIAL */
 
@@ -402,7 +397,8 @@ footer{
   
 
 @media only screen and (min-width: 769px){
-
+    /* parte de Iago Desktop */
+    
     /* parte de Vinicius Desktop*/
     .secaoCursos ul{
         display: flex;
