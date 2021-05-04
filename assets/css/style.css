@@ -120,7 +120,7 @@ footer{}
 
 /* INICIAL */
 main{}
-<<<<<<< HEAD
+
 /* PARTE DE IAGO */
 
 /* DESTAQUE */
@@ -256,7 +256,11 @@ main{}
     text-align: center;
     margin-top: 10vh;
 }
+.secaoCursos article h3{
+    font-size: 19px;
+}
 .secaoCursos article p{
+    font-size: 15px;
     text-align: center;
 }
 .secaoCursos ul{
@@ -295,13 +299,18 @@ main{}
 }
 .secaoCalendar .calendario-data{
     color: #ffffff;
-    font-size: 3vh;
+    font-size: 36px;
     padding: 3vh;
     background-color: #00043e;
     display: block;
 }
 .secaoCalendar .calendario h3{
+    font-size: 19px;
     margin: 4vh;
+}
+.secaoCalendar .calendario p{
+    font-size: 15px;
+
 }
 .secaoCalendar .calendario-data-rodape span{
     display: block;
@@ -315,7 +324,7 @@ main{}
     border:none;
     border-radius: 10px;
     background-color: #007aff;
-    font-size: 1vh;
+    font-size: 32px;
     font-weight:bold;
     color: #ffffff;
     font-size:13px;
@@ -330,6 +339,7 @@ main{}
 div.flex-col{
     text-align: center;
     margin: 2vh;
+    font-size: 15px;
 }
 .flex-col div label{
     display: none;   
@@ -355,8 +365,14 @@ footer{
     width: 3vw;
 }
 
+.secaoContato-informacoes ul li img{
+    max-width: 8%;
+    height: auto;
+}
 
->>>>>>> parte2
+.secaoContato-informacoes ul li a:link{
+    color: var(--cinza);
+}
 
 /* INICIAL */
 
@@ -417,5 +433,4 @@ footer{
         width: 40vw;
         height: 30vh;
     }
-
 }
