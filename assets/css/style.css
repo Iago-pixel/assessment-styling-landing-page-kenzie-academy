@@ -244,7 +244,10 @@ main{}
 }
 /* SEÇÃO SOBRE */
 
+<<<<<<< HEAD
+=======
 
+>>>>>>> master
 /* parte de Vinicius */
 /* secao de cursos */
 .secaoCursos article img{
@@ -370,9 +373,17 @@ footer{
     height: auto;
 }
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+/* >>>>>>> parte2 */
+=======
+>>>>>>> parte2
+>>>>>>> master
+=======
 .secaoContato-informacoes ul li a:link{
     color: var(--cinza);
 }
+>>>>>>> master
 
 /* INICIAL */
 
