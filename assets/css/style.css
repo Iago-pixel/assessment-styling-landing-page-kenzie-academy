@@ -35,6 +35,8 @@ family=Lato -> Títulos, textos
     --cinza: #303030;
 
     --margin-lateral: 4rem;
+
+    --texto-sobre: 19px;
 }
   
 /* GERAL */
@@ -108,6 +110,19 @@ body{}
 .topo .large-container nav{
     display: none;
 }
+.topo .large-container nav ul {
+    display: flex;
+    justify-content: space-between;
+    width: 30vw;
+}
+.topo .large-container nav ul li a{
+    color: white;
+    text-decoration: none; 
+    font-size: 13px;
+}
+.topo .large-container nav ul li a:hover{
+    text-decoration: underline;
+}
 .topo .large-container #menu{
     width: 1.5rem;
     height: 1.5rem;
@@ -142,8 +157,8 @@ main{}
 .inicial .secaoDestaque .secaoDestaqueFormulario{
     display: flex;
     width: 100%;
-    /* margin: 0 5px; */
-    /* height: 50px; */
+    max-width: 700px;
+    margin: 0 auto;
 }
 .inicial .secaoDestaque .secaoDestaqueFormulario input{
     border: none;
@@ -185,11 +200,11 @@ main{}
     color: var(--cinza);
 }
 .inicial .secaoSobre .flex .flex-col p {
-    font-size: 0.9rem;
+    font-size: var(--texto-sobre);
     color: var(--cinza-claro);
 }
 .inicial .secaoSobre .flex .flex-col span {
-    font-size: 0.9rem;
+    font-size: var(--texto-sobre);;
     color: var(--cinza-claro);
 }
 .inicial .secaoSobre .flex .flex-col:last-child{
@@ -202,7 +217,7 @@ main{}
 }
 .inicial .secaoSobre .flex .flex-col ul{
     color: var(--cinza-claro);
-    font-size: 0.9rem;
+    font-size: var(--texto-sobre);;
     line-height: 1.5rem;
     padding-left: 20px;
     list-style-type: initial;
@@ -213,7 +228,7 @@ main{}
     height: 30rem;
 }
 .inicial .secaoSobre .flex .flex-col button{
-    font-size: 1rem;
+    font-size: var(--texto-sobre);;
     padding: 0.5rem;
     border-color: var(--cinza-claro);
     background-color: white;
@@ -398,7 +413,71 @@ footer{
 
 @media only screen and (min-width: 769px){
     /* parte de Iago Desktop */
-    
+    :root{
+    --texto-sobre: 19px;
+    }
+    .topo .large-container{
+        justify-content: space-around;
+        align-items: center;
+        padding-top: 0;
+        height: 4rem;
+    }
+    .topo .large-container nav{
+        display: initial;
+    }
+    .topo .large-container #menu{
+        display: none;
+    }
+    .inicial .secaoDestaque{
+        background: url("../img/background-destaque.webp") right top fixed;
+        background-size: 100vw;
+    }
+    .inicial .secaoDestaque h2{
+        font-size: 63px;
+    }
+    .inicial .secaoDestaque p {
+        font-size: 21px;
+    }
+    .inicial .secaoDestaque .secaoDestaqueFormulario button:hover{
+        cursor: pointer;
+    }
+    .inicial .secaoSobre .flex{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .inicial .secaoSobre .flex .flex-col{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        width: 50vw;
+        height: 30rem;
+    }
+    .inicial .secaoSobre .flex .flex-col:first-child{
+        justify-content: space-around;
+    }
+    .inicial .secaoSobre .flex .flex-col h2 {
+        font-size: 24px;
+    }
+    .inicial .secaoSobre .flex .flex-col button:hover{
+        cursor: pointer;
+    }
+    .inicial .secaoSobre .flex .flex-col:nth-child(3){
+        padding-bottom: 3rem;
+    }
+    .inicial .secaoSobre .flex .flex-col ul{
+    height: initial;
+    }
+
+
+
+
+
+
+
+
     /* parte de Vinicius Desktop*/
     .secaoCursos ul{
         display: flex;
