@@ -338,3 +338,5 @@ footer{
   
     @media screen and (min-width: 800px) {}
 /* MEDIA QUERIES */
+
+@media only screen and (min-width: 769px) {
