@@ -34,10 +34,12 @@ family=Lato -> Títulos, textos
     --cinza-claro: #818181;
     --azul-claro: #007aff;
     --cinza: #303030;
+
+    --margin-lateral: 4rem;
 }
   
 /* GERAL */
-html, body, figure, div, input, button,textarea, p, h1, h2, h3, h4, h5, h6, ul{
+html, body, figure, div, form, input, button,textarea, p, h1, h2, h3, h4, h5, h6, ul{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -88,23 +90,23 @@ body{}
 .topo{
     background-color: var(--azul-escuro);
     width: 100vw;
-    height: 50px;
+    height: 4rem;
 }
 .topo .large-container{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    padding: 10px 20px 0 15px;
+    padding: 1rem 1.5rem 0 1rem;
 }
 .topo .large-container figure #logo{
-    height: 50px;
+    height: 3rem;
 }
 .topo .large-container nav{
     display: none;
 }
 .topo .large-container #menu{
-    width: 20px;
-    height: 20px;
+    width: 1.5rem;
+    height: 1.5rem;
 }
 /* HEADER */
   
@@ -121,27 +123,29 @@ main{}
     background-color: var(--azul-escuro);
     color: white;
     text-align: center;
-    padding: 15px 40px 150px;
+    padding: 1rem 1.5rem 10rem;
 }
 .inicial .secaoDestaque h2 {
     margin: 0px 20px;
-    font-size: 30px;
+    font-size: 1.8rem;
     font-weight: normal;
 }
 .inicial .secaoDestaque p {
-    font-size: 16px;
-    margin: 20px;
+    font-size: 1rem;
+    margin: 1.5rem;
 }
 .inicial .secaoDestaque .secaoDestaqueFormulario{
     display: flex;
-    margin: 0 5px;
+    width: 100%;
+    /* margin: 0 5px; */
     /* height: 50px; */
 }
 .inicial .secaoDestaque .secaoDestaqueFormulario input{
     border: none;
     border-radius: 5px 0 0 5px;
-    height: 30px;
-    padding: 0 10px;
+    height: 2rem;
+    padding: 0 0.5rem;
+    width: 70%;
 }
 .inicial .secaoDestaque .secaoDestaqueFormulario button {
     font-size: 14px;
@@ -149,56 +153,89 @@ main{}
     background-color: var(--azul-claro);
     border: none;
     border-radius: 0 5px 5px 0;
-    padding: 0 10px;
-    height: 30px;
+    padding: 0 0.5rem;
+    height: 2rem;
+    width: 30%;
 }
 /* DESTAQUE */
 
 /* SEÇÃO SOBRE */
 .inicial .secaoSobre{
-    margin: 150px 60px 75px;
+    margin: 10rem 0 5rem;
 }
 .inicial .secaoSobre .flex .flex-col:first-child{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    height: 500px;
+    height: 35rem;
+    padding: 0 var(--margin-lateral);
 }
 .inicial .secaoSobre .flex .flex-col h2 {
-    font-size: 20px;
+    font-size: 1.1rem;
     color: var(--cinza);
 }
 .inicial .secaoSobre .flex .flex-col p {
-    font-size: 16;
+    font-size: 0.9rem;
     color: var(--cinza);
 }
 .inicial .secaoSobre .flex .flex-col span {
-    font-size: 16;
-    color: var(--cinza-claro);
+    font-size: 0.9rem;
+    color: var(--cinza);
 }
-.inicial .secaoSobre .flex .flex-col ul {
-    color: var(--cinza-claro);
-    font-size: 16;
+.inicial .secaoSobre .flex .flex-col:last-child{
+    padding: 0 var(--margin-lateral);
+    background-color: var(--cinza-claro);
+    padding: 0 var(--margin-lateral);
+}
+.inicial .secaoSobre .flex .flex-col:last-child h2{
+    text-align: center;
+}
+.inicial .secaoSobre .flex .flex-col ul{
+    color: var(--cinza);
+    font-size: 0.9rem;
+    line-height: 1.5rem;
     padding-left: 20px;
     list-style-type: initial;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 30rem;
 }
 .inicial .secaoSobre .flex .flex-col button{
-    font-size: 16px;
-    padding: 10px;
-    border-color: var(--cinza-claro);
+    font-size: 1rem;
+    padding: 0.5rem;
+    border-color: var(--cinza);
     background-color: white;
     border-width: 1px;
     border-radius: 5px;
     color: var(--cinza);
 }
-.inicial .secaoSobre .flex .flex-col figure{
-    padding: 50px 0;
+.inicial .secaoSobre .flex .flex-col:nth-child(2) figure{
+    padding: 3rem 0;
     margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.inicial .secaoSobre .flex .flex-col figure img{
+.inicial .secaoSobre .flex .flex-col:nth-child(2) img{
     display: block;
     width: 200px;
+}
+.inicial .secaoSobre .flex .flex-col:nth-child(3){
+    padding: var(--margin-lateral);
+    background-color: var(--cinza-claro);
+}
+.inicial .secaoSobre .flex .flex-col:nth-child(3) figure{
+    padding: 3rem 0 1rem;
     margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inicial .secaoSobre .flex .flex-col:nth-child(3) img{
+    display: block;
+    width: 100px;
 }
 /* SEÇÃO SOBRE */
 
