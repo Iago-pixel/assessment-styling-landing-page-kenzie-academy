@@ -184,7 +184,6 @@ main{}
     margin: 10rem 0 5rem;
 }
 .inicial .secaoSobre .flex .flex-col{
-    text-align: left;
     margin: 0;
 }
 
@@ -192,6 +191,7 @@ main{}
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    align-items: flex-start;
     height: 35rem;
     padding: 0 var(--margin-lateral);
 }
@@ -200,22 +200,23 @@ main{}
     color: var(--cinza);
 }
 .inicial .secaoSobre .flex .flex-col p {
+    text-align: left;
     font-size: var(--texto-sobre);
     color: var(--cinza-claro);
 }
 .inicial .secaoSobre .flex .flex-col span {
+    text-align: left;
     font-size: var(--texto-sobre);;
     color: var(--cinza-claro);
 }
-.inicial .secaoSobre .flex .flex-col:last-child{
+.inicial .secaoSobre .flex .flex-col:last-child{   
+    align-self: flex-start;
     padding: 0 var(--margin-lateral);
     background-color: #e2e2e2;
     padding: 0 var(--margin-lateral);
 }
-.inicial .secaoSobre .flex .flex-col:last-child h2{
-    text-align: center;
-}
 .inicial .secaoSobre .flex .flex-col ul{
+    text-align: left;
     color: var(--cinza-claro);
     font-size: var(--texto-sobre);;
     line-height: 1.5rem;
@@ -228,12 +229,13 @@ main{}
     height: 30rem;
 }
 .inicial .secaoSobre .flex .flex-col button{
+    align-self: center;
     font-size: var(--texto-sobre);;
     padding: 0.5rem;
     border-color: var(--cinza-claro);
     background-color: white;
     border-width: 1px;
-    border-radius: 5px;
+    border-radius: 10px;
     color: var(--cinza);
 }
 .inicial .secaoSobre .flex .flex-col:nth-child(2) figure{
@@ -245,7 +247,7 @@ main{}
 }
 .inicial .secaoSobre .flex .flex-col:nth-child(2) img{
     display: block;
-    width: 60vw;
+    width: 40vw;
 }
 .inicial .secaoSobre .flex .flex-col:nth-child(3){
     padding: var(--margin-lateral);
@@ -261,7 +263,7 @@ main{}
 }
 .inicial .secaoSobre .flex .flex-col:nth-child(3) img{
     display: block;
-    width: 30vw;
+    width: 20vw;
 }
 /* SEÇÃO SOBRE */
 
@@ -445,6 +447,7 @@ footer{
         display: flex;
         align-items: center;
         justify-content: center;
+        flex-direction: row;
         flex-wrap: wrap;
     }
     .inicial .secaoSobre .flex .flex-col{
@@ -452,7 +455,7 @@ footer{
         flex-direction: column;
         justify-content: space-around;
         align-items: center;
-        width: 50vw;
+        width: 48vw;
         height: 30rem;
     }
     .inicial .secaoSobre .flex .flex-col:first-child{
@@ -466,6 +469,12 @@ footer{
     }
     .inicial .secaoSobre .flex .flex-col:nth-child(3){
         padding-bottom: 3rem;
+    }
+    .inicial .secaoSobre .flex .flex-col:nth-child(2) img{
+        max-width: 400px;
+    }
+    .inicial .secaoSobre .flex .flex-col:nth-child(3) img{
+        max-width: 400px;
     }
     .inicial .secaoSobre .flex .flex-col ul{
     height: initial;
